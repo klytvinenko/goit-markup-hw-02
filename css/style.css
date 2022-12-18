@@ -1,0 +1,253 @@
+/* colors button  #4D5AE5 */
+/* primary colors  headlines #2E2F42 */
+/* colors text #434455 */
+/* text in footer  #E7E9FC */
+/* h1 button text #FFFFFF */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #434455;
+}
+ .list {
+  list-style: none;
+ }
+
+/* ----LOGO---- */
+.logo {
+  font-family: 'Raleway',sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.33;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4D5AE5;
+  text-decoration: none;
+
+
+}
+.accent-header-logo{
+  color:#2E2F42
+
+}
+
+
+/* ----HEADER---- */
+.head {
+  /* position: absolute;
+  width: 1440px;
+  height: 72px;
+  left: 0px;
+  top: 0px; */
+  background: #FFFFFF;
+}
+
+.nav-list {
+  
+}
+.list-item {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+  text-decoration: none;
+
+}
+.contact {
+  
+}
+.contact-item {
+  
+}
+
+.nav-a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+}
+
+.nav-a:hover,
+.nav-a:focus {
+  color: #4D5AE5;
+}
+
+.contact-a {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+
+/* ----HERO---- */
+.hero {
+  background: #2E2F42;
+}
+.hero-title {
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
+.hero-button {
+  font-family: inherit;
+  background: #4D5AE5;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.18;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: #FFFFFF;
+
+}
+
+/* ----SKILLS---- */
+.skills {
+  background: #E5E5E5;
+}
+.skills-title {
+}
+.skills-list {
+}
+.skills-item {
+}
+.skills-pre-title {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+}
+.skills-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+
+/* ----WORK---- */
+.work {
+  background: #E5E5E5;
+}
+.work-title {
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2E2F42;
+
+}
+.work-list {
+}
+.work-item {
+}
+
+/* ----TEAM---- */
+.team {
+  background:#F4F4FD;
+}
+.team-title {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2E2F42;
+}
+.team-list {
+}
+.team-item {
+}
+
+.team-name {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+
+}
+
+.team-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
+}
+
+/* ----FOOTER---- */
+.foot {
+  background: #2E2F42;
+}
+
+.accent-footer-logo {
+  color: #F4F4FD;
+
+}
+.foot-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #E7E9FC;
+
+}
+
+/* ----PORTFOLIO---- */
+
+.portfolio {
+  background: #E5E5E5;
+}
+.portfolio-title {
+}
+.portfolio-button-list {
+}
+.portfolio-button {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #FFFFFF;
+}
+
+.portfolio-button:hover,
+.portfolio-button:focus {
+  color: #4D5AE5;
+}
+
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-secondly-title {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+}
+.portfolio-descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
